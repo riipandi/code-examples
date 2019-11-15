@@ -1,0 +1,21 @@
+/*!
+ * Theme Name:         Djar
+ * Theme URI:          https://github.com/riipandi/djar
+ * Description:        Custom theme for Aris Ripandi Blog.
+ * Version:            1.0.0
+ * Author:             Aris Ripandi
+ * Author URI:         https://arisio.us/
+ * License:            GNU General Public License v3.0
+ * License URI:        https://choosealicense.com/licenses/gpl-3.0/
+ * Tags:               minimal, tailwindcss, postcss, webpack
+ * Text Domain:        djar
+ * Requires PHP:       5.6
+ */
+
+@import "tailwindcss/base";
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@import 'element.css';
+@import 'components.css';
+@import 'navigation.css';

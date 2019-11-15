@@ -1,0 +1,30 @@
+/vendor
+/node_modules
+coverage/
+npm-debug.log
+yarn-error.log
+composer.lock
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+
+# output file
+/bundle.js
+/style.css
+/dist
+
+# other files
+._*
+.dist/
+.cache/
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+.vscode
+*.log
+
+ehthumbs.db
+Thumbs.db
+wp-content

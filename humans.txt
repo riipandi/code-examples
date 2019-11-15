@@ -1,0 +1,10 @@
+## Team
+
+Aris Ripandi
+https://arisio.us
+@riipandi
+
+
+## Site
+
+Software: Built with [WordPress](https://wordpress.org/).
